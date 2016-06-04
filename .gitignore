@@ -1,6 +1,6 @@
 /data/
 /doc/
 /images/
-.mat
-.csv
+*.mat
+*.csv
 
