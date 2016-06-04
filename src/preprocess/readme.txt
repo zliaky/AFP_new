@@ -1,17 +1,17 @@
-Column 1: QQ, enumerate, 0~136971
-Column 2: Gender, enumerate, 1~2
-Column 3: Year, continuous, 1956~2012
-Column 4: Surf_scene, enumerate, 1~5
-Column 5: Marriage_status, enumerate, 1~10
-Column 6: Education, enumerate, 1~6
-Column 7: Profession, enumerate, 1~12
-Column 8: Literal, enumerate, 0~4925
-Column 9: Creative_id, enumerate, 0~10006
-Column 10: Category_id, enumerate, 0~148
-Column 11: Series_id, enumerate, 0~3622
-Column 12: Advertiser_id, enumerate, 0~991
-Column 13: Product_type, enumerate, 0~6
-Column 14: Product_id, enumerate, 0~496
-Column 15: Imp_time, continuous, 0~105710
-Column 16: Pos_id, enumerate, 0~3
-Column 17: Click_num, enumerate, 0~1
+Column 01: QQ				enumerate		0		136971
+Column 02: Gender			enumerate		1		2
+Column 03: Year				continuous		1956	2012
+Column 04: Surf_scene		enumerate		1		5
+Column 05: Marriage_status	enumerate		1		10
+Column 06: Education		enumerate		1		6
+Column 07: Profession		enumerate		1		12
+Column 08: Literal			enumerate		0		4925
+Column 09: Creative_id		enumerate		0		10006
+Column 10: Category_id		enumerate		0		148
+Column 11: Series_id		enumerate		0		3622
+Column 12: Advertiser_id	enumerate		0		991
+Column 13: Product_type		enumerate		0		6
+Column 14: Product_id		enumerate		0		496
+Column 15: Imp_time			continuous		0		105710
+Column 16: Pos_id			enumerate		0		3
+Column 17: Click_num		enumerate		0		1
